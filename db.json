@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "GTX 1660",
+      "price": "399",
+      "id": 2
+    },
+    {
+      "name": "Samsung DDR5 4800 8x2",
+      "price": "300",
+      "id": 4
+    },
+    {
+      "name": "Ryzen 5 2600",
+      "price": "299",
+      "id": 5
+    },
+    {
+      "name": "Samsung Evo 1TB",
+      "price": "320",
+      "id": 7
+    }
+  ]
+}
